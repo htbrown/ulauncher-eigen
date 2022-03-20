@@ -1,8 +1,8 @@
-@define-color eigen #16161d;
-@define-color night #1c2333;
-@define-color dimmed #242d41;
-@define-color light #8e959e;
-@define-color bright #e6e6e1;
+@define-color eigen #1D1616;
+@define-color night #331C1C;
+@define-color dimmed #412424;
+@define-color light #9E8E8E;
+@define-color bright #E6E1E1;
 
 .app {
   font-family: inherit;
